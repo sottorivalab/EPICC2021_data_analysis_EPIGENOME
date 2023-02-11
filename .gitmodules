@@ -1,0 +1,3 @@
+[submodule "inference_scripts"]
+	path = inference_scripts
+	url = git@github.com:sottorivalab/EPICC2021_inference.git
